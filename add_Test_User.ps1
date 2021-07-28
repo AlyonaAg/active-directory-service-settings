@@ -1,0 +1,1 @@
+﻿.\create_Delete_Users.ps1 -name "GenAdmTest" -ou "Administration" -command ADD -groupname "General Admins"
